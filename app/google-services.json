@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "355431925978",
+    "firebase_url": "https://tanudemoexp.firebaseio.com",
+    "project_id": "tanudemoexp",
+    "storage_bucket": "tanudemoexp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355431925978:android:36be5421b9594bec",
+        "android_client_info": {
+          "package_name": "com.example.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355431925978-nktcr19ej8j2h0aallrh5ark4bhj2r3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcmnotification",
+            "certificate_hash": "a886b441c679b27acaf7efe2196e1f07683b3677"
+          }
+        },
+        {
+          "client_id": "355431925978-ur00ad54bqnul86a5s07mcsqnfncfdvf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "355431925978-6bo9ot0an2970u0uvn0ikvcrlf12ebvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5zbq6YdfWkljIJTNufmWutzVBywXbZ3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355431925978-ur00ad54bqnul86a5s07mcsqnfncfdvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
